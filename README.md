@@ -4,7 +4,7 @@
         <img src="icons/illustration.png" alt="illustration" min-width="300rem" max-width="400rem" width="400rem" align="right">
         <ul>
 		<li>👀 From time to time visit my profile!</li>
-	    <li>🤓 I am great with <strong>HTML, CSS, JavaScript & Git.</strong></li>
+	    <li>🤓 I am great with <strong>React, React Native & Git.</strong></li>
             <li>🐱‍👤 I’m looking to <strong>collaborate on open source projects.</strong></li>
             <li>🐱‍🏍 I’m open to <strong>job opportunities.</strong></li>
     	</ul>
